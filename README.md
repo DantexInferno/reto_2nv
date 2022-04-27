@@ -5,4 +5,4 @@ en el caso 2 realice una funcion para cada punto excepto el punto 1 y 3 que los 
 
 el punto 6 del caso realice la logica pero tuve problemas con la visualización al hacerlo con un geochart
 
-para utilizar cada caso crear un entorno virtual e instalar las librerias que estan ene le archivo requiments.txt
+para utilizar cada caso crear un entorno virtual e instalar las librerias que estan ene le archivo requirements.txt
